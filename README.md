@@ -2,7 +2,19 @@
 ### Full-Stack Developer
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/3181264032/1573947043/1500x500)
 
-Skills: Ruby / Rails / React / HTML / CSS
+#### My stack <img height=30 src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+
+```ruby
+oscardelalanza = {
+  languages: [:HTML, :CSS3, :JavaScript, :Ruby, :C, :R],
+  frameworks: [:Ruby_on_Rails],
+  libraries: [:React, :Redux, :Bootstrap, :Materialize, :Devise],
+  technologies: [:SCSS, :Webpack, :Heroku, :Git, :npm, :yarn],
+  databases: [:MySQL, :PostgreSQL],
+  testing: [:RSpec, :MiniTest, :Jest],
+  others: [:algorithms, :data_structures, :microcontrollers, :data_networks, :electronics, :maths],
+}
+```
 
 - 🔭 I’m currently working on React-Redux apps 
 - 🌱 I’m currently learning how to connect Rails to Arduino to a PLC  🔌 
@@ -11,7 +23,7 @@ Skills: Ruby / Rails / React / HTML / CSS
 - 😄 Pronouns: He / Him / The Guy 
 - ⚡ Fun fact: I love Math & Electronics.
 
-<div align="">
+<div>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardelalanza&show_icons=true&count_private=true&theme=radical)  
   
