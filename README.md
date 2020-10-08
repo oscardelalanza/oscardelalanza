@@ -1,5 +1,5 @@
-### Hi there 👋, I'm, Oscar
-#### Full-Stack Developer
+## Hi there 👋, I'm Oscar
+### Full-Stack Developer
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/3181264032/1573947043/1500x500)
 
 Just for fun... ![Profile views](https://gpvc.arturio.dev/oscardelalanza)  
@@ -13,7 +13,7 @@ Skills: Ruby / Rails / React / HTML / CSS
 - 😄 Pronouns: He / Him / The Guy 
 - ⚡ Fun fact: I love Math & Electronics.
 
-<div>
+<div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelalanza&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,6 +24,10 @@ Skills: Ruby / Rails / React / HTML / CSS
 
 <div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oscardelalanza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscardelalanza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oscar.mendoza.31924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oscardelalanza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oscardelalanza) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oscardelalanza)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscardelalanza/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oscar.mendoza.31924)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oscardelalanza/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oscardelalanza) 
 
 </div>
