@@ -13,11 +13,11 @@ Skills: Ruby / Rails / React / HTML / CSS
 - 😄 Pronouns: He / Him / The Guy 
 - ⚡ Fun fact: I love Math & Electronics.
 
-<div align="center">
+<div align="">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardelalanza&show_icons=true&count_private=true&theme=radical)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelalanza&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelalanza&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
