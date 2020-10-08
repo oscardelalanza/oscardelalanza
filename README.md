@@ -1,4 +1,4 @@
-### Hi there 👋, I', Oscar
+### Hi there 👋, I'm, Oscar
 #### Full-Stack Developer
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/3181264032/1573947043/1500x500)
 
