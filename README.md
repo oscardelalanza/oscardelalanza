@@ -2,10 +2,6 @@
 ### Full-Stack Developer
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/3181264032/1573947043/1500x500)
 
-![Party Parrot](https://media.tenor.com/images/c592e4929d53585b1b1a5522a4f8bb99/tenor.gif)
-
-Just for fun... ![Profile views](https://gpvc.arturio.dev/oscardelalanza)  
-
 Skills: Ruby / Rails / React / HTML / CSS
 
 - 🔭 I’m currently working on React-Redux apps 
@@ -33,3 +29,7 @@ Skills: Ruby / Rails / React / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oscardelalanza) 
 
 </div>
+
+![Party Parrot](https://media.tenor.com/images/c592e4929d53585b1b1a5522a4f8bb99/tenor.gif)
+
+Just for fun... ![Profile views](https://gpvc.arturio.dev/oscardelalanza)
