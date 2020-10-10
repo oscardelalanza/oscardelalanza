@@ -12,6 +12,7 @@ oscardelalanza = {
   technologies: [:SCSS, :Webpack, :Heroku, :Git, :npm, :yarn],
   databases: [:MySQL, :PostgreSQL],
   testing: [:RSpec, :MiniTest, :Jest],
+  likes: [:Monster_Energy],
   others: [:algorithms, :data_structures, :microcontrollers, :data_networks, :electronics, :maths],
 }
 ```
