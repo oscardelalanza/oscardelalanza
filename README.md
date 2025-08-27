@@ -2,7 +2,8 @@
 ### Full-Stack Developer
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/3181264032/1573947043/1500x500)
 
-#### My stack <img height=30 src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+#### My stack 
+<img height=50 width=50  src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 ```ruby
 oscardelalanza = {
@@ -34,19 +35,22 @@ oscardelalanza = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardelalanza&show_icons=true&count_private=true&theme=radical)  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelalanza&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-<div>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oscardelalanza)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscardelalanza/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oscardelalanza/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oscardelalanza) 
-
-</div>
-
+  
 ![Party Parrot](https://media.tenor.com/images/c592e4929d53585b1b1a5522a4f8bb99/tenor.gif)
 
-Just for fun... ![Profile views](https://gpvc.arturio.dev/oscardelalanza)
+<p align="left">
+  <a href="https://github.com/oscardelalanza">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/oscardelalanza/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/oscardelalanza/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30">
+  </a>
+</p>
+
+</div>
+
